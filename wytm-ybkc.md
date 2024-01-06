@@ -45,6 +45,7 @@
 ## 2022
 2022 jn, wj nq hokc nodejs mr ncn wf vcst. tt dd jn, db up lw chatgpt mr git.
 
+* [jbks](./jbks/2022.md)
 * [grks](./grks/2022.md)
 
 ## 2023
