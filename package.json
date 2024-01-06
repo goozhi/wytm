@@ -1,0 +1,11 @@
+{
+  "name": "wytm",
+  "version": "1.0.0",
+  "description": "[wytm-ybkc](./wytm-ybkc.md)",
+  "main": "index.js",
+  "scripts": {
+    "test": "node zogl.js"
+  },
+  "author": "wrvr",
+  "license": "ISC"
+}
