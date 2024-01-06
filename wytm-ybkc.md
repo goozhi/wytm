@@ -23,10 +23,13 @@
 2019 mb dd jn, wj vcjl faiu bnyh, tt dd jn, wj dk eh veqw lw. kr ye jn, wj pcfd jpki ab lw autojs.
 
 2020 jn, wj ngrw lw wrvr.
+* [uuks](./uuks/2020.md)
 
 2021 jn, imim, wj szlh ye lil yizi dk vowu dwpe ypzv lhse zon omn fvl dk jybz yh, bj bclh lw rcmw bcxf. wj hy yizi vody lw kn li nh mf dk argd fg conv yf ye qt sg dk rspj, xqkq wj dynq cd czl lw kr nh lzfc dk rspj, ac cf wj stpc ik hmpc vllb fg wmwm lbta lw. 9 pu,  wj dw yfho jpbx ab ihl aul uypi. uypi bqeo fy wj cowr dk sdno ac yevh. 12 pu, wj nene yizi fgau.
 
 2022 jn, wj nq hokc nodejs mr ncn wf vcst. tt dd jn, db up lw chatgpt mr git.
+
+* [grks](./grks/2022.md)
 
 2023 jn, wj weuu lw ihl aul, yye dd ji szlh wj kylh ahno yjab ymkk dk uypi.
 
