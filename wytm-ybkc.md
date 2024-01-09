@@ -25,7 +25,11 @@
 2015 mb dd jn, wj vcjl sfrh, tt dd jn, hese nq snsf.
 
 ## 2016
-2016 jn jnim, ayl yq ud hy xixt oan mr wj nq yeup, jnyr, tf cdwy ttl wj hd lw. wj gk ji nh gcqa. 9 pu, tf vo zzuy kx wj, oon wj yhjb gbkt. jnyr, wj nq egrr hohf hmpc ymdo osbb. wj dk yfkj hj cz wil tg nyn, wj gk sujy, hy dw yndf yfho oxlb wj ji nyn dk.
+2016 jn jnim, ayl yq ud hy xixt oan mr wj nq yeup, jnyr, tf cdwy ttl wj hd lw. wj gk ji nh gcqa. 9 pu, tf vo zzuy kx wj, oon wj yhjb gbkt. jnyr, wj nq egrr hohf hmpc ymdo osbb.
+
+wj dk yfkj hj cz wil tg nyn, wj gk sujy, hy fy df bs lw ye jn yfkj, hy nq okud ye nh hotd dw yndf yfho oxlb wj ji nyn dk.
+
+wj vody wj dk myl ac digy. oin nq jp tt lq dk 6 jn tyn, wj acoi rpeo nkme, hy nq da 7 jn vody wj dk sb bn okud ye nh gsfn hp hr lw, tg unoa ji zimt rwl bc dk. phfd ybsz ahoa hy szlh wj basd lw holg dk trig.
 
 ## 2017
 2017 jnim, wj vo zzuy kx ayl yq ud, tf crn jfn wj wj ji jy. fh fkqj qn ks, wj nq fihk tyn fy wj ln le wj acco rjm lw, wj msn szdg gq rtqj wlyq. jily dk ji, tf ji co wlyq yj qnnh uyrz dk hq hq wj pc ofof jfrs.
@@ -34,13 +38,17 @@
 
 ## 2019
 2019 mb dd jn, wj vcjl faiu bnyh, tt dd jn, wj dk eh veqw lw. kr ye jn, wj pcfd jpki ab lw autojs.
+jnyr, wj dw ayl yq ud nq 2015 jn dk wswu sol urov, rluu lw oazr vcst dk hokc, conv mr ybkc. wj dk vkrs mr fijh yzcs oamt hv dgl zhci.
 
 ## 2020
 2020 jn, wj ngrw lw wrvr.
 * [uuks](./uuks/2020.md)
 
 ## 2021
-2021 jn, imim, wj szlh ye lil yizi dk vowu dwpe ypzv lhse zon omn fvl dk jybz yh, bj bclh lw rcmw bcxf. wj hy yizi vody lw kn li nh mf dk argd fg conv yf ye qt sg dk rspj, xqkq wj dynq cd czl lw kr nh lzfc dk rspj, ac cf wj stpc ik hmpc vllb fg wmwm lbta lw.
+
+nq wtwt ll, wj ncnc hokc lw rdeb, bj ncnc sdvu wrvr.
+
+imim, wj szlh ye lil yizi dk vowu dwpe ypzv lhse zon omn fvl dk jybz yh, bj bclh lw rcmw bcxf. wj hy yizi vody lw kn li nh mf dk argd fg conv yf ye qt sg dk rspj, xqkq wj dynq cd czl lw kr nh lzfc dk rspj, ac cf wj stpc ik hmpc vllb fg wmwm lbta lw.
 
 9 pu,  wj dw yfho jpbx ab ihl aul uypi. uypi bqeo fy wj cowr dk sdno ac yevh. 12 pu, wj nene yizi fgau.
 
@@ -48,6 +56,8 @@
 
 ## 2022
 2022 jn, wj nq hokc nodejs mr ncn wf vcst. tt dd jn, db up lw chatgpt mr git.
+
+cfhi zd wj uufb db yfkt oul cbl, ye uufb ji lvl ycn dk, wj db lw ye jn.
 
 * [jbks](./jbks/2022.md)
 * [grks](./grks/2022.md)
