@@ -77,7 +77,7 @@ wj qn zddu gk an lcn dk, hy kuyi ttl figd en ab na ye bn, ss tf di wpm xv uypi. 
 * [hiyq-hj-aco-twn-dk-ybsz](./hiyq-tfde-dk-ybsz/hiyq-hj-aco-twn-dk-ybsz.md)
 
 12 pu 1 ih, wj nene yizi fgau.
-
+* [uuks](./uuks/2021.md)
 * [grks](./grks/2021.md)
 
 ## 2022
